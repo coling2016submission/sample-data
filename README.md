@@ -27,13 +27,13 @@ LIST of files in the data file:
 -------------------------------
 
   ChinesePropositionBank/chinese-propbank-sample.txt		Sample of 100 sentences with SRL information
-  ChinesePropositionBank/frames/				Folder with frame files for 30 verbs
+  ChinesePropositionBank/frames/				Folder with frame files for 100 verbs
 
   FrenchPropositionBank/french-propbank-sample.txt		Sample of 100 sentences with SRL information
-  FrenchPropositionBank/frames/        				Folder with frame files for 30 verbs
+  FrenchPropositionBank/frames/        				Folder with frame files for 100 verbs
 
   GermanPropositionBank/german-propbank-sample.txt		Sample of 100 sentences with SRL information
-  GermanPropositionBank/frames/					Folder with frame files for 30 verbs
+  GermanPropositionBank/frames/					Folder with frame files for 100 verbs
  
 
 INTERESTING verbs:
